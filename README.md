@@ -1,4 +1,4 @@
-## Fredrik Simonsson, M.Sc
+# Fredrik Simonsson, M.Sc
 
 ## Highly skilled Software Engineer, comfortable working in C++, Perl, Rust, C and other languages.
 ## Focused on low-level and system software.
