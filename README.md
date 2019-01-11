@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/simonsso/simonsso.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/simonsso/simonsso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Fredrik Simonsson 
+##Highly skilled Software Engineer, comfortable working in C++, Perl, Rust, C and other languages.
+##Focused on low-level and system software.
+###Key achievements
+Successfully moved several teams at Renesas into Continuous Integration and automated build systems.
+Responsible for Software Architecture and Implementation of back-end driver code for branding feature of a top tier smart phone on Japanese market 2017.
+###Recently used languages
+    • C++
+    • C
+    • Rust
+###Experience in
+    • Software Architecture
+    • Debugging
+    • Test Driven Development
+    • Device Drivers
+    • Embedded Systems
+    • Continuous Integration
+###Tools and technologies with prior knowledge
+    • ARM
+    • ASIC 
+    • ASIP
+    • Assember 68000, ARM PIC (and other)
+    • bash - Shell Scripting
+    • Electronics 
+    • Embedded C 
+    • Embedded Linux 
+    • Embedded Software 
+    • gdb
+    • Git 
+    • Java
+    • Linux  
+    • lua
+    • MySQL 
+    • Perl
+    • php
+    • RESTful architecture
+    • SoC
+    • SQL, mySQL
+    • SystemVerilog
+    • VHDL
