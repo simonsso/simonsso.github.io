@@ -41,3 +41,5 @@ Highly skilled Software Engineer, comfortable working in C++, Perl, Rust, C and 
 * SQL, mySQL
 * SystemVerilog
 * VHDL
+
+[LinkedIn](https://www.linkedin.com/in/fredriksimonsson/) [github](https://github.com/simonsso/)
