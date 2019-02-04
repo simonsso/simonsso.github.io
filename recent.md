@@ -9,6 +9,7 @@ My projects on git hub
   *  lite:  Implement driver for embedded BM Lite fingerprint all in one device.
 
 Contributing to
-*  nrf52-hal
-*  nrf51-hal
+*  nrf52-hal: Implemented embedded_hal traits and example code
+*  nrf51-hal: Implemented embedded_hal traits
 *  DoumanAsh/stm32l4x6_hal
+*  embedded-hal-mock: SPI added support for non blocking trait 
