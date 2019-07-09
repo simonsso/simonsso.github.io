@@ -7,6 +7,7 @@ Highly skilled Software Engineer, comfortable working in C++, Perl, Rust, C and 
 ### Recently used languages
 * C++
 * C
+* Kotlin
 * Rust
 
 ### Experience in
